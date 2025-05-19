@@ -2,7 +2,8 @@ streamlit
 google-generativeai
 python-dotenv
 langchain
+langchain-google-genai
+langchain-community
 PyPDF2
 chromadb
 faiss-cpu
-langchain-google-genai
