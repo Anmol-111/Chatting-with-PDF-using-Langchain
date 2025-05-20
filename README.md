@@ -30,6 +30,9 @@ Google Generative AI: For both embedding and chat model.
 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/27cc3e9a-56d3-4773-9f91-0fa3588c8a0e)
 
+![image](https://github.com/user-attachments/assets/8bcf6836-662f-4b82-bb1a-84e8e00491d0)
+
+
 ⚙️ How It Works
 Upload a PDF via the sidebar.
 
