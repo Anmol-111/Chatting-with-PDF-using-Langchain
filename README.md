@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>ChatterPDF - Chat with Your PDFs</title>
-</head>
-<body>
-
   <h1>📄 ChatterPDF - Chat with Your PDFs Using Google Gemini + LangChain</h1>
 
   <div class="section">
