@@ -3,62 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>ChatterPDF - Chat with Your PDFs</title>
-  <style>
-    body {
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 2rem;
-      background-color: #f5f7fa;
-      color: #333;
-    }
-
-    h1, h2 {
-      color: #2c3e50;
-    }
-
-    h1 {
-      border-bottom: 3px solid #2980b9;
-      padding-bottom: 0.5rem;
-    }
-
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    li {
-      background-color: #fff;
-      border-left: 5px solid #3498db;
-      padding: 1rem;
-      margin: 0.5rem 0;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    }
-
-    .screenshot img {
-      max-width: 100%;
-      margin: 1rem 0;
-      border: 2px solid #ccc;
-      border-radius: 8px;
-    }
-
-    .section {
-      margin-bottom: 2rem;
-    }
-
-    code {
-      background-color: #e8e8e8;
-      padding: 2px 5px;
-      border-radius: 3px;
-    }
-
-    .highlight {
-      background-color: #ecf0f1;
-      padding: 1rem;
-      border-left: 5px solid #2980b9;
-      font-family: monospace;
-      white-space: pre-wrap;
-    }
-  </style>
 </head>
 <body>
 
